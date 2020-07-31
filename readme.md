@@ -4,7 +4,7 @@ Jean-Paul Ventura
 
 ### Question considered:
 
-To what extent to different immunological, mortality, economic, and social factors have an effect on observed life expectancy worldwide?
+To what extent to different health factors have an effect on observed life expectancy worldwide?
 
 ## Context
 
@@ -16,9 +16,9 @@ public and global health.
 1.) Data:
 The data-set containts information on life expectancy and other factors for 193 countries has been prepared from the WHO data repository website with corresponding economic data sourced from United Nations data.
 
-2.) Data Cleaning process and Preliminary Data Exploration notebook
+2.) Data Cleaning process and Preliminary Data Exploration notebook: 'prelim_data_exploration.ipynb'
 
-3.) Final notebook: compilation of results.
+3.) Final notebook: 'GlobalHealthOutcomes_final.ipynb' compilation of results.
 
 
 
